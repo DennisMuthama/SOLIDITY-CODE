@@ -19,11 +19,11 @@ solidity-learning/
 │ ├── GasOptimization.sol
 │ └── DelegateCall.sol
 ├── projects/ # Mini-projects applying concepts
-│ ├── SimpleToken.sol
-│ └── VotingSystem.sol
-└── tests/ # Test files (if any)
+ ├── SimpleToken.sol
+  └── VotingSystem.sol
 
-Copy
+
+
 
 ## 🚀 Getting Started
 
@@ -39,10 +39,9 @@ cd solidity-learning
 npm install
 Compiling Contracts
 bash
-Copy
-npx hardhat compile
-# or
-truffle compile
+
+REMIX IDE
+
 📚 Learning Resources
 Solidity Documentation
 
